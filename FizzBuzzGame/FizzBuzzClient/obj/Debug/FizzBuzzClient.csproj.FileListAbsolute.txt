@@ -1,0 +1,10 @@
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzClient\bin\Debug\FizzBuzzClient.exe.config
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzClient\bin\Debug\FizzBuzzClient.exe
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzClient\bin\Debug\FizzBuzzClient.pdb
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzClient\obj\Debug\FizzBuzzClient.csprojAssemblyReference.cache
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzClient\obj\Debug\FizzBuzzClient.csproj.CoreCompileInputs.cache
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzClient\obj\Debug\FizzBuzzClient.exe
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzClient\obj\Debug\FizzBuzzClient.pdb
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzClient\bin\Debug\FizzBuzzInterfaces.dll
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzClient\bin\Debug\FizzBuzzInterfaces.pdb
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzClient\obj\Debug\FizzBuzzClient.csproj.CopyComplete

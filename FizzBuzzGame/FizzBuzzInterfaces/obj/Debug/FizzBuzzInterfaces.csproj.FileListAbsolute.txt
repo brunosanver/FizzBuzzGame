@@ -1,0 +1,6 @@
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzInterfaces\bin\Debug\FizzBuzzInterfaces.dll
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzInterfaces\bin\Debug\FizzBuzzInterfaces.pdb
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzInterfaces\obj\Debug\FizzBuzzInterfaces.csprojAssemblyReference.cache
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzInterfaces\obj\Debug\FizzBuzzInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzInterfaces\obj\Debug\FizzBuzzInterfaces.dll
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzInterfaces\obj\Debug\FizzBuzzInterfaces.pdb

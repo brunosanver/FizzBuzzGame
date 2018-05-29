@@ -1,0 +1,10 @@
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzService\bin\Debug\FizzBuzzService.exe.config
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzService\bin\Debug\FizzBuzzService.exe
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzService\bin\Debug\FizzBuzzService.pdb
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzService\bin\Debug\FizzBuzzInterfaces.dll
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzService\bin\Debug\FizzBuzzInterfaces.pdb
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzService\obj\Debug\FizzBuzzService.csprojAssemblyReference.cache
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzService\obj\Debug\FizzBuzzService.csproj.CoreCompileInputs.cache
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzService\obj\Debug\FizzBuzzService.csproj.CopyComplete
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzService\obj\Debug\FizzBuzzService.exe
+C:\Users\capol_000\Source\Repos\FizzBuzzGame\FizzBuzzService\obj\Debug\FizzBuzzService.pdb
